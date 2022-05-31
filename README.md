@@ -144,9 +144,10 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/94165322/171086692-f9d04aa8-1605-4345-8164-c5b6db40fadf.png)
 ![image](https://user-images.githubusercontent.com/94165322/171086707-0c60b2de-8473-4543-b83c-be2bae814bf0.png)
 ![image](https://user-images.githubusercontent.com/94165322/171086716-876f3de0-f1ab-4452-8dd6-0d84bb5e6b7f.png)
-![image](https://user-images.githubusercontent.com/94165322/171086735-773caca8-da6a-4e71-bf78-e51f39969d95.png)
-![image](https://user-images.githubusercontent.com/94165322/171086758-6ec98d06-8e7b-44dd-a76b-94a561fe8d5b.png)
-![image](https://user-images.githubusercontent.com/94165322/171086773-58fc42b8-1305-4b79-89c9-94d6dbeb8bfa.png)
-![image](https://user-images.githubusercontent.com/94165322/171086794-f9fed626-444f-47d1-9a7d-f4b6cd2298a5.png)
+![image](https://user-images.githubusercontent.com/94165322/171087314-f1373399-2b7f-4331-8716-8f3686a62ffc.png)
+![image](https://user-images.githubusercontent.com/94165322/171087334-7b3da6a6-cf7e-49bf-81c1-19b483c35cba.png)
+![image](https://user-images.githubusercontent.com/94165322/171087369-fe41eaa3-e3b1-4034-ab2d-bfbb86ac7d3d.png)
+![image](https://user-images.githubusercontent.com/94165322/171087384-b3c3b376-5055-49c9-83b6-c94f47437b51.png)
+
 # RESULT
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
