@@ -146,8 +146,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/94165322/171086716-876f3de0-f1ab-4452-8dd6-0d84bb5e6b7f.png)
 ![image](https://user-images.githubusercontent.com/94165322/171087314-f1373399-2b7f-4331-8716-8f3686a62ffc.png)
 
-![image](https://user-images.githubusercontent.com/94165322/171087369-fe41eaa3-e3b1-4034-ab2d-bfbb86ac7d3d.png)
-![image](https://user-images.githubusercontent.com/94165322/171087384-b3c3b376-5055-49c9-83b6-c94f47437b51.png)
+
 
 # RESULT
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
